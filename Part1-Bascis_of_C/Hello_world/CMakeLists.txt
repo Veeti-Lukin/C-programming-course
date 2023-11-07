@@ -1,0 +1,1 @@
+add_executable(Part1_Hello_world hei.c)
