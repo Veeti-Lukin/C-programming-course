@@ -1,0 +1,1 @@
+add_executable(Part1_Command_line_arguments komentorivi.c)
