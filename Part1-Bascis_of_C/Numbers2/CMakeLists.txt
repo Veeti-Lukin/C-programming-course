@@ -1,0 +1,1 @@
+add_executable(Part1_Numbers2 luvut_2.c)
