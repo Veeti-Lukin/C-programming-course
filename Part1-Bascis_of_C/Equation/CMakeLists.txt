@@ -1,0 +1,1 @@
+add_executable(Part1_Equation yhtalo.c)
