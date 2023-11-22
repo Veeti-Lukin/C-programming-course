@@ -1,0 +1,1 @@
+add_executable(Part1_Lotto lotto.c)
